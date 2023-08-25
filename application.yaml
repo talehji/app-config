@@ -8,7 +8,7 @@ eureka:
     prefer-ip-address: true
 spring:
   application:
-    name: api-gatewayyy
+    name: api-gateway
   cloud:
     gateway:
       globalcors:
